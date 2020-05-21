@@ -29,7 +29,7 @@ You should create one R script called run_analysis.R that does the following.
 
 The run_analysis.R can be found here :
 
-Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data/run_analysis.R "run_analysis.R")
+[R Script Link](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data/run_analysis.R "run_analysis.R")
 
 The following is scripted in the R script "run_analysis.R":
 1. Merges the training and the test sets to create one data set.
@@ -38,15 +38,19 @@ The following is scripted in the R script "run_analysis.R":
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Results :
+#Results :
 
-Tidy Data Set [Click here to access tidyData.txt](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data/tidyData.txt "tidyData.txt")
+Tidy Data Set:
+[Click here to access tidyData.txt Link](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data/tidyData.txt "tidyData.txt")
 
-Github Repo [Click here to access Project Tidy Dataset Repo](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data"Click to go to Repo")
+CodeBook:
+[Click here to access CodeBook.md Link](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data/CodeBook.md "CodeBook.md")
 
-CodeBook [Click here to access CodeBook.md](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data/CodeBook.md "CodeBook.md")
+Github Repo:
+[Click here to access this Project Tidy Dataset Repo Link](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data)
 
-README [Link to this README.md](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data/README.md "README.md")
+README:
+[Link to this README.md Link](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data/README.md "README.md")
 
 Thank you,
 Daniel Karjadi
