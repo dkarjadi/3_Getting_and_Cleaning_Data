@@ -29,7 +29,7 @@ You should create one R script called run_analysis.R that does the following.
 
 The run_analysis.R can be found here :
 
-[R Script Link](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data/run_analysis.R "run_analysis.R")
+[R Script Link](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data/blob/master/run_analysis.R "run_analysis.R")
 
 The following is scripted in the R script "run_analysis.R":
 1. Merges the training and the test sets to create one data set.
@@ -41,17 +41,17 @@ The following is scripted in the R script "run_analysis.R":
 # Results :
 
 Tidy Data Set:
-[Click here to access tidyData.txt file](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data/tidyData.txt "tidyData.txt")
+[Click here to access tidyData.txt file](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data/blob/master/tidyData.txt "tidyData.txt")
 
 CodeBook:
-[Click here to access CodeBook.md file](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data/CodeBook.md "CodeBook.md")
+[Click here to access CodeBook.md file](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data/blob/master/CodeBook.md "CodeBook.md")
 
 Github Repo:
 [Click here to access this Project Tidy Dataset Repo](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data)
 
 README:
-[Link to this README.md file](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data/README.md "README.md")
+[Link to this README.md file](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data/blob/master/README.md "README.md")
 
 Thank you,
 
-Daniel Karjadi
+Daniel A. Karjadi
