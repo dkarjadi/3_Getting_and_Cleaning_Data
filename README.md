@@ -40,13 +40,13 @@ The following is scripted in the R script "run_analysis.R":
 
 Results :
 
-Tidy Data Set [Data Set Link](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data/tidyData.txt "tidyData.txt")
+Tidy Data Set [Click here to access tidyData.txt](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data/tidyData.txt "tidyData.txt")
 
-Github Repo [Repo Link](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data"Click to go to Repo")
+Github Repo [Click here to access Project Tidy Dataset Repo](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data"Click to go to Repo")
 
-Cookbook | CodeBook.md |  [Repo Link](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data/CodeBook.md "CodeBook.md")
+CodeBook [Click here to access CodeBook.md](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data/CodeBook.md "CodeBook.md")
 
-README | ReadingItNow |  [Repo Link](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data/README.md "README.md")
+README [Link to this README.md](https://github.com/dkarjadi/3_Getting_and_Cleaning_Data/README.md "README.md")
 
 Thank you,
 Daniel Karjadi
